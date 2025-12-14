@@ -1,0 +1,5 @@
+{
+  "name": "CreativeFlow AI",
+  "description": "Платформа для генерации изображений и видео с использованием Google Gemini и Veo.",
+  "requestFramePermissions": []
+}
